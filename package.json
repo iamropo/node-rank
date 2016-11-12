@@ -1,0 +1,24 @@
+{
+  "name": "node-rank",
+  "version": "1.0.0",
+  "description": "tool to check if you missed a node.js update",
+  "scripts": {
+    "test": "node node-rank.js"
+  },
+  "keywords": [
+  	"rank", "node-js", "node", "miss", "update"
+  ],
+  "author": "Hage Ropo",
+  "license": "MIT",
+  "bin": {
+    "node-rank": "./node-rank.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "request": "^2.78.0"
+  },
+ "repository": {
+   "type": "git",
+   "url": "git@github.com:iamropo/node-rank.git"
+ }
+}
