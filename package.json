@@ -1,6 +1,6 @@
 {
   "name": "node-rank",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tool to check if you missed a node.js update",
   "scripts": {
     "test": "node node-rank.js"
